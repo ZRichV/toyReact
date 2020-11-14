@@ -1,0 +1,23 @@
+{
+  "name": "toyreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZRichV/toyReact.git"
+  },
+  "author": "Khaled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZRichV/toyReact/issues"
+  },
+  "homepage": "https://github.com/ZRichV/toyReact#readme",
+  "dependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
